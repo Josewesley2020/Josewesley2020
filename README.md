@@ -25,7 +25,7 @@
 Atividades complementares
 ------------------------------|
 
-Aceleração global DEV #7 | Avanade Angular  | Decola Dev | GFT START | HTML WEB DEVELOPER
+Aceleração <br> global DEV #7 | Avanade <br> Angular  | Decola Dev | GFT START | HTML WEB <br> DEVELOPER
 :------:|:------:|:------:|:------:|:------:
 <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Bootcamps/ACELERACAO-GLOBAL-DEV%237.png" width="65" height="65">| <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Bootcamps/AVANADE_ANGULAR_DEVELOPER.png" width="65" height="65"> | <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Bootcamps/DECOLA-DEV_AVANADE_2021.png" width="65" height="65"> | <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Bootcamps/GFT_START_2021.png" width="65" height="65"> | <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Bootcamps/HTML-WEB-DEVELOPER.png" width="65" height="65">
 
