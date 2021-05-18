@@ -25,7 +25,7 @@
 Atividades complementares
 ------------------------------|
 
-Aceleração <br> global DEV #7 | Avanade <br> Angular  | Decola Dev | GFT START | HTML WEB <br> DEVELOPER
+**Aceleração** <br> global DEV #7 | Avanade <br> Angular  | Decola Dev | GFT START | HTML WEB <br> DEVELOPER
 :------:|:------:|:------:|:------:|:------:
 <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Bootcamps/ACELERACAO-GLOBAL-DEV%237.png" width="65" height="65">| <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Bootcamps/AVANADE_ANGULAR_DEVELOPER.png" width="65" height="65"> | <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Bootcamps/DECOLA-DEV_AVANADE_2021.png" width="65" height="65"> | <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Bootcamps/GFT_START_2021.png" width="65" height="65"> | <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Bootcamps/HTML-WEB-DEVELOPER.png" width="65" height="65">
 
@@ -37,7 +37,7 @@ Aceleração <br> global DEV #7 | Avanade <br> Angular  | Decola Dev | GFT START
 Programação Web 
 ----------------------------------|
 
-Snak Game | Jurassic Game | Netflix clone
+**Snak Game** | Jurassic Game | Netflix clone
 ----------|---------------|--------------
 <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/ProgramacaoWeb/Snak_game.jpg" width="300" height="150"> | <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/ProgramacaoWeb/Jurasic_game.png" width="300" height="150"> | <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/ProgramacaoWeb/Netflix_clone.jpg" width="300" height="150">
 
@@ -68,5 +68,5 @@ Tela de Autenticação | Valet
  <br><br>
  <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Outras/chapola.png" width="80" height="90"> 
  <br><br>
- [Linkedin](https://www.linkedin.com/in/jos%C3%A9-wesley-da-silva-220376200/) | [HackerRank](https://www.hackerrank.com/jwes_ofc1994) 
+ [Linkedin](https://www.linkedin.com/in/jos%C3%A9-wesley-da-silva-220376200/) | [**HackerRank**](https://www.hackerrank.com/jwes_ofc1994) 
 </h6> 
