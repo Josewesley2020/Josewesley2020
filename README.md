@@ -1,4 +1,4 @@
-<h1 align="center">  Stranger welcome ! </h1>
+<h1 align="center">  Bem vindo forasteiro ! </h1>
 
 <br>
 
@@ -11,6 +11,7 @@
 
   **Elaboração de tutorial**   <br>
   Essa playlist foi desenvolvida especialmente para o Bootcamp da Avanade na plataforma da Digital Innovation One 
+  
   INTRODUÇÃO AO ANGULAR | PlayList                             
 ----------------------|--------------------------------------                      
  <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Outras/youtube-play-icone-removebg-preview.png" width="45" height="25"> Introdução ao Angular | https://youtu.be/Vr0RxP_m3xA      
@@ -53,7 +54,19 @@ Tela de Autenticação | Valet
 ---------------------|------
 <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/AndroidStudio/TelaDeAutenticacao.jpg" width="500" height="250"> |  <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/AndroidStudio/Valet2.jpg" width="500" height="250">
 
-<br>
-<br>
 
-<img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Outras/chapola.png" width="200" height="200"> **Siga-me os Bons!** | [Linkedin](https://www.linkedin.com/in/jos%C3%A9-wesley-da-silva-220376200/) | [HackerRank](https://www.hackerrank.com/jwes_ofc1994)
+
+
+<br>
+</br>
+
+
+
+<h6 align="center"> 
+
+  **Siga-me os Bons!** 
+ <br><br>
+ <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Outras/chapola.png" width="80" height="90"> 
+ <br><br>
+ [Linkedin](https://www.linkedin.com/in/jos%C3%A9-wesley-da-silva-220376200/) | [HackerRank](https://www.hackerrank.com/jwes_ofc1994) 
+</h6> 
