@@ -45,9 +45,13 @@ Snak Game | Jurassic Game | Netflix clone
 Programação Mobile (Android Studio)
 ------------------------------------|
 
- Calculadora | Jogo da Velha | Lista de Atividades | Tela de Autenticação | Valet
- -------------|--------------|------------------|------------------------|--------
- <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/AndroidStudio/Calculadora.jpg" width="200" height="150">|  <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/AndroidStudio/JogoDaVelha.jpg" width="200" height="150"> |  <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/AndroidStudio/ListaDeAtividades.jpg" width="200" height="150"> |  <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/AndroidStudio/TelaDeAutenticacao.jpg" width="200" height="150"> |  <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/AndroidStudio/Valet2.jpg" width="200" height="150">
+ Calculadora | Jogo da Velha | Lista de Atividades 
+ -------------|--------------|------------------|
+ <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/AndroidStudio/Calculadora.jpg" width="500" height="250">|  <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/AndroidStudio/JogoDaVelha.jpg" width="500" height="250"> |  <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/AndroidStudio/ListaDeAtividades.jpg" width="500" height="250">
+ 
+Tela de Autenticação | Valet
+---------------------|------
+<img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/AndroidStudio/TelaDeAutenticacao.jpg" width="500" height="250"> |  <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/AndroidStudio/Valet2.jpg" width="500" height="250">
 
 <br>
 <br>
